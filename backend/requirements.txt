@@ -1,0 +1,4 @@
+pandas
+numpy
+matplotlib
+seaborncontent://com.android.externalstorage.documents/tree/primary%3ADownload%2FAllDocumentReader::primary:Download/AllDocumentReader/requirements.txt
